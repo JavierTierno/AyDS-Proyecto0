@@ -1,7 +1,7 @@
 class main{
     public static void main(String args[]){
 
-        System.out.println("Primer commit" + "Nico");
+        System.out.println("Segundo commit" + " Nico" + ", " + "Santiago");
 
     }
 }
